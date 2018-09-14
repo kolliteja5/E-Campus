@@ -1,0 +1,8 @@
+<web-inf>
+    
+    <welcome-file-list>
+        <welcome-file>/visitors</welcome-file>
+        
+    </welcome-file-list>
+    
+</web-inf>
